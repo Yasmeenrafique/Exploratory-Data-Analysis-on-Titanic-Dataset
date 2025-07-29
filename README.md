@@ -45,17 +45,9 @@ This project explores the famous **Titanic** dataset  focusing on:
 - Distribution of survival by **gender**, **age**, and **passenger class**  
 - Heatmaps and count plots using **Seaborn** for correlation and comparisons
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/yasmeen-rafique" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="yasmeenrafique89@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[https://github.com/yasmeenrafique](https://github.com/Yasmeenrafique)" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Yasmeen Rafique**  
+🔗 [LinkedIn](www.linkedin.com/in/yasmeen-rafique)  
+📧 yasmeenrafique89@gmail.com
 
